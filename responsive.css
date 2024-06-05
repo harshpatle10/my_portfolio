@@ -1,0 +1,185 @@
+@media only screen and (max-width:600px) {
+    body{
+        background-color: rgb(0, 0, 0);
+    }
+ .container{
+    height: 107vh;
+ }                                               
+.nav{
+   min-width: 0vw;
+}
+.option{
+    /* position: absolute; */
+    display: none;
+}
+.hll{
+    font-size: 5vmin;
+}
+.id{
+    width: 12vw;
+    height: 6.5vh;
+}
+.id-image{
+    width: 12vw;
+    height: 6.5vh;
+}
+.home-right{
+    height: 105vh;
+}
+.photo-box{
+    margin-left: 23vw;
+}
+.cv{
+    width: 35vw;
+    height: 3.8vh;
+}
+.home{
+    display: block;
+     height: 50vh;
+}
+.home-left{
+    width: 91vw;
+    height: 26vh;
+}
+.container-about{
+    height: 80vh;
+}
+.text-about-right{
+    padding: 0%;
+}
+.text-about-right h3{
+    font-size: 6vmin;
+}
+.about-p{
+    font-size: 4vmin;
+}
+.text-about-right h1{
+    font-size: 8vmin;
+}
+.about{
+    display: block;
+}
+.about-right{
+    margin-left: 10vw;
+    width: 80vw;
+}
+.about-left{
+    display: none;
+}
+/* .container-skill{
+    display: block;
+    height: 132vh;
+} */
+.container-skill {
+    display: block;
+    height: 137vh;
+}
+.skill{
+    /* text-align: center; */
+    width: 100vw;
+}
+.ms h1{font-size: 6vmin;
+    margin-top: 0vh;
+}
+.skill-box{
+    display: block;
+
+}
+.skill-box-left{
+    width: 90vw;
+    height: 70vh;
+}
+.tbox{
+    width: 83vw;
+}
+.techbox h3{
+    font-size: 4vmin;
+}
+.line-80 h1{
+    font-size: 3vmin;
+}
+.techbox{
+    padding-bottom: 3vh;
+    margin: 0;
+}
+.skill-box-right{
+    width: 100vw;
+    height: 58vh;
+}
+.skill-box-right h2{
+    font-size: 6.2vmin;
+}
+.per-box{ 
+    padding-left: 5vw;
+    justify-content:left;
+    gap: 1vh;
+    width: 80vw;
+    height: 40vh;
+    /* display: block; */
+}
+.creativity{
+    margin-bottom: 7vh;
+    width: 34vmin;
+}
+.creativity h2{
+    font-size: 3vmin;
+}
+.project-heading{
+    height: 5vh;
+    text-align: center;
+    display: block;
+}
+.port{
+    /* display: block; */
+}
+.project-container {
+    height: 150vh;
+}
+.portfolio-content{
+    /* height: 160vh; */
+    display: block;
+}
+.contact-me {
+    height: 130vh;
+    display: block;
+}
+.contact-left{
+    padding-left: 12vw;
+    height: 50vh;
+    width: 80%;
+}
+.heading h1{
+    font-size: 5vmin;
+    margin-bottom: 0vh;
+}
+.contact-right {
+    /* padding-right: 10vw; */
+    /* padding-top: 3vmin; */
+    width: 90%;
+    height: 56vh;
+}
+.para-text{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 4vmin;
+}
+.contact-form{
+    padding-left: 10vw;
+}
+
+.skill-box-left h2 {
+    font-size: 4vmin;
+   position: relative;
+   left: 8%;
+}
+.techbox img {
+    border-radius: 5px;
+    width: 5vmin;
+    height: 5vmin;
+}
+.aa6{
+    margin-left: 13vw;
+    width: 12vmin;
+    height: 9vmin;
+    display: block;
+}
+}
